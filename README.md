@@ -5,7 +5,7 @@ Manual testing practice on the demo website https://www.saucedemo.com.
 ## What is inside
 
 - Testing_Practice_Project.xlsx
-  - Test Cases sheet: 11 test cases (login and cart)
+  - Test Cases sheet: 17 test cases (login, cart and checkout)
   - Bug Reports sheet: 2 bugs with steps, expected and actual result, severity and priority
 - BUG01_same_image.png: screenshot of Bug 1
 - BUG02_add_to_cart.png: screenshot of Bug 2
